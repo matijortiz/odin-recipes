@@ -1,0 +1,62 @@
+
+* {
+    line-height: 1.5;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(251, 199, 199);
+}
+
+a:visited {
+    color: rgb(251, 199, 199);
+}
+
+a:hover {
+    color: yellow;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 14px;
+    text-align: center;
+}
+
+ol {
+    font-size: 16px;
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body {
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(41, 39, 39);
+    color: white;
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    text-align: center;
+    color: rgb(222, 68, 68);
+}
+
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin: auto;
+    opacity: 70%;
+}
+
+.cursiva { font-style: italic; }
+.imagenpie img {
+    width: 40%;
+}
