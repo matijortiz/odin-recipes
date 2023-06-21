@@ -51,12 +51,12 @@ h2 {
 
 img {
     display: block;
-    width: 50%;
     margin: auto;
-    opacity: 70%;
+    opacity: 50%;
 }
 
 .cursiva { font-style: italic; }
 .imagenpie img {
     width: 40%;
+    position: center;
 }
